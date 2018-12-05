@@ -56,7 +56,7 @@ def loadKNNDataAndTrainKNN():
 
     try:
         # read in training classifications
-        Classifications = np.loadtxt("./Classifications.txt", np.float32)                  
+        Classifications = np.loadtxt("./GenerateData/Classifications.txt", np.float32)                  
     except:                                                                                 
         print("error, unable to open Classifications.txt, exiting program\n")  
         os.system("pause")
@@ -65,7 +65,7 @@ def loadKNNDataAndTrainKNN():
 
     try:
         # read in training images
-        FlattenedImages = np.loadtxt("./Flattened_images.txt", np.float32)                 
+        FlattenedImages = np.loadtxt("./GenerateData/Flattened_images.txt", np.float32)                 
     except:                                                                                 
         print("error, unable to open flattened_images.txt, exiting program\n")  
         os.system("pause")

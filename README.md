@@ -6,6 +6,6 @@
 
 ![alt text](https://github.com/GudheRaju/NumberPlateRecognition/blob/master/images/imgOriginalScene_screenshot_05.12.2018.png)
 
-![alt text](https://github.com/GudheRaju/NumberPlateRecognition/blob/master/images/result.png)
+![alt text](<a href="https://imageresize.org" target="_blank">Image Resizer</a>)
 
 

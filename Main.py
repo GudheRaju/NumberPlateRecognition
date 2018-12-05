@@ -33,7 +33,7 @@ def main():
         return                                                         
     
     #imgOriginalScene  = cv2.imread("./test_image.jpg")              
-    img  = cv2.imread("./plate.png")  
+    img  = cv2.imread("./images/plate.png")  
 
     if img is None:                           
         print("\n error: image not read from file \n\n")  
